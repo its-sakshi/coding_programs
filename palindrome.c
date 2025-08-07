@@ -1,7 +1,7 @@
-//finding palindrome, armstrong, reverse of a number
+//finding palindrome, reverse of a number
 #include<stdio.h>
 int main(){
-int n ,rem, rev =0, cube =0;
+int n ,rem, rev =0;
 printf("enter a number :");
 scanf("%d", &n);
 int a =n;
