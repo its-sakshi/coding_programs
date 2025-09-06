@@ -1,6 +1,5 @@
 // a program to find the second largest number in an array
 
-// Online C++ compiler to run C++ program online
 #include <iostream>
 using namespace std;
 int main() {
